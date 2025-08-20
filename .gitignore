@@ -1,0 +1,57 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Bytecode & logs
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# =========================
+# Machine Learning / Data
+# =========================
+# Large datasets or generated files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.db
+*.sqlite
+*.pickle
+*.h5
+*.joblib
+*.npy
+*.npz
+
+# TensorBoard logs
+logs/
+runs/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
